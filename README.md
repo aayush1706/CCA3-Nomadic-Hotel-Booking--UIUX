@@ -5,13 +5,13 @@
 Nomadic is a hotel-booking website UI/UX redesign created as part of the CCA3 User Interface and User Experience Design assignment. The project focuses on improving the usability, navigation, and overall booking experience through a high-fidelity interactive prototype designed in Figma.
 
 ## Student Details
-- **Name:** [Your Full Name]
-- **Roll Number:** [Your Roll Number]
-- **Project:** Nomadic — Hotel Booking Website Redesign
+- **Name:** Aayush Vyas
+- **Roll Number:** 1262240233 (01 TY AIDS F)
+- **Project:** Nomadic — Hotel Booking Website (Booking.com) Redesign
 - **Tool Used:** Figma
 
 ## Figma Prototype
-**Prototype Link:** [Paste your Figma share link here]
+**Prototype Link:** (https://www.figma.com/design/EzJQ1cGFyjjssn55b9eExB/Nomadic-UIUX?node-id=0-1&t=21BGmGCFRUA5y7GD-1)
 
 ## Screens Designed
 The Nomadic prototype includes the following five screens:
@@ -57,7 +57,16 @@ CCA3-Nomadic-UIUX/
 - **end_sem_experiments/** — Files related to end-semester experiments.
 
 ## Findings and Conclusion
-The usability-testing findings and survey results will be documented after analysing the collected participant data. The final conclusion will summarise the main usability issues, participant feedback, comparison between the original website and the Nomadic prototype, and recommendations for future improvements.
+
+The qualitative usability evaluation compared the original Booking.com website with the Nomadic hotel-booking prototype using five supplied participant transcripts.
+
+The feedback highlighted several usability challenges in the original Booking.com interface, including visual clutter, promotional pop-ups, urgency messages, additional offers, and the need to check pricing details carefully. In comparison, Nomadic was described as cleaner and easier to navigate, with upfront price information, simplified hotel listings, clear room details, and a structured three-step booking process.
+
+The main design strengths identified were price transparency, reduced visual clutter, simplified navigation, and clearer booking steps. These findings suggest that a minimal interface and accessible presentation of essential information can improve the perceived usability of a hotel-booking experience.
+
+Further improvements should focus on testing prototype interactions, ensuring payment and cancellation information remains clear, and conducting additional usability sessions to identify potential issues.
+
+Limitations: This conclusion is based on qualitative feedback from the five supplied transcripts. Survey results were unavailable at the time of writing, so no quantitative findings or statistical comparisons are reported. The conclusions should therefore be interpreted as qualitative observations rather than statistically representative results.
 
 ## Acknowledgement
 This project was developed for academic purposes as part of the User Interface and User Experience Design coursework.
