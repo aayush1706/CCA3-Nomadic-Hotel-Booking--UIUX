@@ -1,0 +1,9 @@
+P3_transcript.txt
+
+[On Booking.com]
+
+"Planning a nice trip to London with my partner. Typing dates into Booking.com... Okay, got the list. There are so many red warning badges: 'Only 1 room left at this price!' or 'Booked 5 times in the last hour!' It kind of stresses me out and feels a bit pressured. Let's click on a hotel... photos are nice, reviews are clear. I'll pick a standard room. Proceeding to checkout... getting distracted by pop-ups asking me to sign in for a loyalty discount. Skipping that. Entering my contact details. Reaching the payment page—everything looks standard, but there's a lot of text to read through."
+
+[On Nomadic Prototype]
+
+"Let's run the same search on Nomadic. Beautiful imagery right on the landing page. Entering London for Nov 12-15. The search results feel calm—no fake scarcity alerts or high-pressure countdown timers. Just clean cards with star ratings, reviews, and amenities. I'll check out Riverside Park Hotel. The property page has a nice summary: 'Your London stay, by the river'. Selecting the standard double room. Moving to guest details—it says 'Step 2 of 3. No account needed', which is such a relief because I hate creating random passwords for one-off bookings. Proceeding to payment, it's clean, simple, and stress-free."

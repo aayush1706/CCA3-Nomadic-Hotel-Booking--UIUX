@@ -1,0 +1,9 @@
+P2_transcript.txt
+
+[On Booking.com]
+
+"Let's find a hotel on Booking. London, Nov 12-15. Two adults. Searching... Man, prices shown in search results sometimes exclude taxes, so I always have to double-check the fine print. Let's sort by price low to high. City Square Hotel looks affordable at £412 total. Let's click through. Reading facilities... free Wi-Fi, breakfast available. Let's pick a room. The interface lists various rate plans—non-refundable vs. free cancellation—which takes a moment to parse. Selecting room, clicking reserve. Filling in my name and email. Reaching the final payment screen... it asks for credit card details even for 'pay later' options just to verify. Feels a bit intrusive, but standard for Booking."
+
+[On Nomadic Prototype]
+
+"Testing Nomadic now. London, 12-15 Nov 2026. Search results load instantly. What I notice immediately is that the price tag explicitly says 'Prices include taxes and fees' right at the top—huge plus for budgeting. Let's check the Riverside Park Hotel. Clicking 'See availability'. The room breakdown table is super transparent: shows nightly rate, total stay cost, exact tax breakdown (£45 tax included), and bold text saying 'Pay at property £0 due today'. Clicking 'Select room'. Step 2: Guest details form is straightforward, phone and name marked clearly. Step 3: Payment page explicitly explains how the demo card guarantees the room with zero charges today. Extremely clear and transparent."
