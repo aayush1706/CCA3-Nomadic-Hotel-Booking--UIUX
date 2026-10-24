@@ -1,9 +1,0 @@
-P4_transcript.txt
-
-[On Booking.com]
-
-"Evaluating Booking.com's flow. Standard heuristic issues here: heavy cognitive load, dark patterns with urgency messaging ('3 other people are looking at this right now'), and fragmented navigation where clicking properties opens new tabs. Filtering works, but the UI hierarchy is cluttered with ads and sponsored listings. Going through room selection, multi-step upsell screens for car rentals and airport taxis before hitting guest details. Checkout form is long and peppered with micro-copy marketing checkboxes. Standard legacy OTA design."
-
-[On Nomadic Prototype]
-
-"Now running the Nomadic prototype. Immediate visual hierarchy improvements: generous whitespace, clear typography, and contextual breadcrumbs ('Back to search', step indicators '1 Your room -> 2 Guest details -> 3 Payment'). The information architecture is flat and logical. Selecting the room on the property details page is a single, clear action. The guest details form uses inline validation cues and explicit required labels. On the payment screen, the layout cleanly separates payment method toggles from the reservation summary sidebar. Excellent reduction in user friction and cognitive overhead compared to Booking."
