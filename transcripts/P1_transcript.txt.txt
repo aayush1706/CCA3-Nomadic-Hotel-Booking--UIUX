@@ -1,0 +1,9 @@
+P1_transcript.txt
+
+[On Booking.com]
+
+"Okay, heading to Booking.com. Let's type in London... dates are November 12th to 15th, two adults, one room. Hitting search. Wow, right away there are hundreds of properties, ads pinned at the top, banner alerts, Genius discounts popping up everywhere... It's a bit visually cluttered. Let's use the filter sidebar on the left to narrow down to 4-star hotels. Okay, comparing options... this Riverside Park Hotel looks decent, 8.8 rating. Let's click it—opens in a new tab, annoying. Reviewing details... okay, standard double room, free cancellation. Let's select the room. Now it's pushing breakfast add-ons and sign-in popups... closing that. Entering guest details... standard form fields. Moving to payment... lots of fields for cards, promotional checkboxes, marketing opt-ins. Done up to payment."
+
+[On Nomadic Prototype]
+
+"Alright, trying the same thing on Nomadic. Clean homepage, very minimal. Destination already pre-set or easy to pick—London, Nov 12 to 15, two adults. Hitting 'Search stays'. Ah, love how fast this loads—only 3 curated properties match, no overwhelming clutter or sponsored spam. Let's look at the filters up top. Riverside Park Hotel is right there: 4-star, clear pricing (£495 total, taxes included upfront—thank goodness, no hidden math). Clicking 'See availability' brings me to the clean property page. Selecting the Standard double room... smooth transition. Filling out guest details on Step 2: minimal fields, 'No account needed' badge is reassuring. Proceeding to Step 3, Payment: clear toggle for 'Pay at property', zero friction, zero aggressive upsells. Much faster and cleaner experience."

@@ -1,0 +1,9 @@
+P5_transcript.txt
+
+[Testing Booking.com]
+
+"Alright, using Booking. Entering London, dates Nov 12-15. Search. Scrolling through the results... it's a bit hard to quickly compare because some prices say 'per night' and others show a total in smaller text. Found a 3-star hotel. Clicking into it. Selecting the room... need to scroll past breakfast options and room upgrades. Reached guest details, filling out my phone and email. Proceeding to payment. Standard checkout process, took a few extra clicks to get through."
+
+[Testing Nomadic Prototype]
+
+"Using Nomadic now. Search London for 12-15 Nov. Results show up right away. The layout makes it really easy to compare options—shows night rate and total stay right together. Let's pick Riverside Park. Clicking 'See availability'. Selecting the standard room. Step 2 form is super basic in a good way—no extra clutter. Hit 'Continue to payment'. Payment step clearly tells me it's a demo card and no actual charge happens today. Hit complete booking. Super straightforward."
